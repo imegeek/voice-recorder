@@ -1,0 +1,4 @@
+pillow==10.3.0
+pyaudio==0.2.14
+pydub==0.25.1
+wave==0.0.2
